@@ -21,7 +21,6 @@ rootProject.allprojects {
 }
 
 apply plugin: 'com.android.library'
-apply plugin: 'com.google.protobuf'
 
 android {
     compileSdkVersion 27
